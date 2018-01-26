@@ -1,5 +1,7 @@
 26.1.2018:
 
+klo 9:00 - 12:00
+
 Yaël ja Tomas saapuneet tunnille klo 9:00. 
 
 Thomas saanut tiedon edellisenä iltana että muut hänen ryhmäläisensä eivät jatka kurssilla, joten Thomas liittynt meidän ryhmään
@@ -11,3 +13,5 @@ Ohjeita jotka saatu tutkittavaksi: google scholar, pineapple linux, erilaisia k�
 Saatu vahvistus myös muilta ryhmäläisiltä jotka tunnilta olivat poissa, että Thomas voi liittyä ryhmään.
 
 Luotu myös tämä github sivu ryhmällemme.
+
+
