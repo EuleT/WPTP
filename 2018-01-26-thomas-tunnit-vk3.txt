@@ -1,0 +1,5 @@
+Viikko3 5h projektiryhmän eHealthcare luomiseen ja projektiaiheen valintaan 
+2h wordpressin luomiseen https://ehealthcare2018.wordpress.com/ 
+4h brainstorm projektin hallintaa github luonti https://github.com/eHealthC/manageproject/projects/1
+2h arduinoprojektien tutkimista https://create.arduino.cc/projecthub/search?q=healthcare  ei mainittavia tuloksia, check blog wordpress
+total 13h DUUNII
