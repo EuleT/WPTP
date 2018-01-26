@@ -1,0 +1,13 @@
+26.1.2018:
+
+Yaël ja Tomas saapuneet tunnille klo 9:00. 
+
+Thomas saanut tiedon edellisenä iltana että muut hänen ryhmäläisensä eivät jatka kurssilla, joten Thomas liittynt meidän ryhmään
+(Wi-Fi penetration testing project - WPTP).
+
+Keskusteltu Teron kanssa ideastamme, ja saatu yhdessä projektin kanssa yhteisymmärrys, ja Terolta paljon ohjeita.
+Ohjeita jotka saatu tutkittavaksi: google scholar, pineapple linux, erilaisia käyttötapauksia.
+
+Saatu vahvistus myös muilta ryhmäläisiltä jotka tunnilta olivat poissa, että Thomas voi liittyä ryhmään.
+
+Luotu myös tämä github sivu ryhmällemme.
