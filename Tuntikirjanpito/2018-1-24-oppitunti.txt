@@ -1,0 +1,14 @@
+VKO4, 2018-01-24
+
+klo 12:00 - 15:00 (lisätty jälkikäteen gittiin),
+
+Tom ja Yaël saapuivat oppitunnille klo 12, jossa käytiin projektiohje powerpoint dioja.
+
+Keskusteltu myös opettajien kanssa erilaisista projekti-ideoista.
+
+Mahdollisia ideoita vielä GNUradio ja siihen liittyen asioita, sekä opettajaltamme Terolta saatu idea: Metasploit android roottaus,
+jotta voitaisiin ohittaa helpommin scLinux OS.
+
+Päätetty myös keskustelu samalle illalle discord ohjelmassa.
+
+Aikaa oppitunnilla 3h (Yaël ja Tom).
