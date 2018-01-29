@@ -1,1 +1,1 @@
-Thomasin henkilökohtaiset tuntikirjaukset.
+Thomaksen henkilökohtaiset tuntikirjaukset.
