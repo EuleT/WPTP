@@ -1,0 +1,26 @@
+VKO4, 24-1-2018
+
+klo 19:45 - 22:45
+
+Suunniteltu ideoita projektillemme. (Lisätty jälkikäteen gittiin.)
+
+Suunniteltuja:
+
+koiranpanta IoT - on jo käytössä
+
+door lock - liian nopeasti tehtävä
+
+hylkäsimme ilmanraikastin idean
+
+ar lasit - liian vaikea
+
+krack - mahdollinen
+
+tutkittiin gitissä KRACK ja sen käytettävyyttä
+
+
+lopputulos:
+
+vaihtoehtoina krack tai metasploit projekti jolla voisi rootata android puhelimet.
+
+3h per henkilö (Leo, Yaël, Tom).
