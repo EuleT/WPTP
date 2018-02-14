@@ -1,0 +1,24 @@
+VKO 7
+2018-02-14
+
+12:00 - 15:45
+
+Koululle saapunut Tomas, Leo ja Yaël.
+
+Pidetty pienimuotoinen ohjauskeskustelu Tero Karvisen kanssa.
+
+Saatu idea että teemme tulevan tutkielman pohjalta kirjan, osoitteessa lulu.com
+
+Mahdollisia ideoita: "How we learned to hack" jne... Kirja siitä kuinka 4 oppilasta alkoivat opettelemaan itsenäisesti
+penetraatio testausta ilman kokemusta asiasta.
+
+Suunniteltu tarkemmin tarvittavia komponentteja mahdolliseen IoT laitteeseemme, mm. verkkokortti jossa on injektio
+mahdollisuus.
+
+Otettu käyttöön myös safaribooks trial versio käyttöön.
+
+Löydetty lisää hyödyllisiä linkkejä (löytyvät toisesta txt tiedostosta tässä gitissä).
+
+Osallistujat: Leo, Thomas, Yaël
+Aikaa kului 3h 45 min.
+
