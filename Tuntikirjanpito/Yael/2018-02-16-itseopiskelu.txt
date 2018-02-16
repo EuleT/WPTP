@@ -1,0 +1,22 @@
+VKO7
+2018-02-16
+
+15:00 - 17:10
+
+Aktivoin itselleni safaribooksonline trial version, jota kautta saimme jo oppitunnilla noukittua muutaman hyvän
+tiedon lähteen.
+
+Ensiksi luin alustavasti läpi Kali Linux Wireless Penetration Testing Beginner's Guide - Third Edition, ekirjaa, jonka
+lukemisen laitoin paussille, sillä uskon hyötyväni siitä enemmän kun asennan Kalin virtuaaliboxille. Tämä kirja sisältää
+enemmänkin how-to-do ohjeita.
+
+Lähde: https://www.safaribooksonline.com/library/view/kali-linux-wireless/9781788831925/
+
+Tämän jälkeen aloin katsomaan Omar Santosin videoita, penetraatio-testaus nettikurssi.
+Security Penetration Testing The Art of Hacking Series LiveLessons
+
+Katsoin 11/111 videota.
+
+Lopputulos: Opittu eri mahdollisuuksia pystyttää oma testiympäristö penetraatio testaukselle, ja miten lähteä liikkeelle.
+
+Aikaa kului: 2h 10 min.
