@@ -1,0 +1,18 @@
+VKO7
+2018-02-18
+
+11:30 - 15:33
+
+Jatkoa edelliseen:
+
+Käyty Safaribooksonline,  SECURITY PENETRATION TESTING THE ART OF HACKING SERIES LIVELESSONS, kappaleet 2 ja 3.
+
+Aloitettu myös: WIRELESS NETWORKS, IOT, AND MOBILE DEVICES HACKING (THE ART OF HACKING SERIES)
+
+Tutkittu myös paketti injektoimista.. (aireplay -ng, mdk) ja tarvittavaa alfa wifi adapteria.
+
+Lopputulos: monimutkaisempi, mutta innostuneempi odotus käytännön työtä varten.
+Tavoite ensi viikolle: Asentaa Kali virtuaalikoneelle, testiympäristön luonti ja ohjelmiin tutustuminen turvallisesti.
+
+Aikaa kului: 4h
+
