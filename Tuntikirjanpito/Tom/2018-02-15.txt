@@ -1,0 +1,12 @@
+VKO7
+2018-02-15
+
+16.00-18-30
+
+En ollut kokouksessa keskiviikkona mutta kuulin ryhmältäni safaribooksista ja päätin sieltä etsiä infoa. Luin Kali Linux Wireless 
+Penetration Testing Beginner's Guide - Third Edition nimistä teosta. Aloitin alusta ja luin hiukan KRACK attackistä mistä olin lukenut 
+jo aikaisemmin.
+
+https://www.safaribooksonline.com/library/view/kali-linux-wireless/9781788831925/
+
+Lisätty myöhemmin gittiin. 2h 30min
