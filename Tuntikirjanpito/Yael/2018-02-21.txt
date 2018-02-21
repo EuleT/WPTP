@@ -1,0 +1,10 @@
+VKO8
+2018-02-21
+
+14.00-21.00
+
+Kokoonnuimme Yaëlin kanssa meille, ja aloimme alustavasti tutkimaan kali linuxin asennusta virtuuaali laitteille. Meillä oli ongelmia saada
+ linux virtuaali koneelle ja lukemattomien troubleshoottien jälkeen päätimme asentaa sen live tikkulle. Testasimme muutamia Kalin muutamia 
+ valmiita ominaisuuksia ja tutustuimme metasploittiin.
+
+7h
