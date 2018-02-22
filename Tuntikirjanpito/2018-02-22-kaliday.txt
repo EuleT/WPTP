@@ -1,0 +1,22 @@
+VKO 8
+
+2018-02-22
+
+14:00 - 19:00
+
+Saavuttu Tomin luokse klo 14:00 (Leo, Yaël, Tom).
+
+Asennettu muutama kerta Kali Linux virtuaalikoneelle, siinä epäonnistumatta.
+
+Onnistumisen jälkeen havaittu että virtualboxin kautta ei pääse yhdistämään Wifiin (no wifi adapter found).
+
+Kokeiltu myös haaga-helian cloudplatformille saada kali linux, mutta se ei onnistunut yhtään.
+
+VirtualBoxin kautta Kalin käyttö ei sovi wifi pen testaamiseen.. Päätetty jatkaa Livetikulla..
+
+Luotu kaikille paikallaolijoille kali linux livetikku.
+
+Aikaa kului: 5h
+
+Osallistujat: Leo, Tom, Yaël
+
