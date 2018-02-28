@@ -1,0 +1,21 @@
+2018-02-28
+VKO 9
+12 - 16
+
+Tultu oppitunnille klo 12:00 (Leo, Yaël).
+
+Pidetty keskustelu opettaja Tero Karvisen kanssa.
+
+Saatu tavoitteeksi Lulun tutkiminen, kirjan tekemistä varten.
+Tavoitteeksi Wifi-kortin hankinta, sekä WEP:in murtautuminen ensiksi.
+
+Yaël unohtanut muistitikun kotiin, jonka lähti hakemaan. Aikaa kului 1h (13-14).
+
+Harjoiteltu Kali terminaalista root salasanan muuttaminen, ja uuden käyttäjän luonti sudo-oikeuksin. (monimutkaisempi prosessi
+kuin kuvittelimme)
+
+Puolet ryhmästä oli poissa, emmekä päässeet käsiksi testiympäristöömme, niin päätimme olla jatkamatta tänä päivänä.
+
+Lopputulos: saatu selkeämmät tavoitteet, ja opittu vähän configurointia.
+
+aikaa kului: 4h
