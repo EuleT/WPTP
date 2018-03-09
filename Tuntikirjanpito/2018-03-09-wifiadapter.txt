@@ -1,0 +1,24 @@
+VKO10, 2018-03-09
+
+klo 10:00 - 17:00
+
+
+Kävimme ostamassa Verkkokaupasta Wireless routerin, sekä wifi adapterin.
+Käynnistetty Kali livetikulta, ja konfiguroitu läppärissä USB:llä kiinni oleva WiFi adapter 
+sekä konfiguroitu myös reitittimen perusasetukset.
+Saimme wifi adapterilla otettua yhteyden routeriin, mutta emme pysty muuttamaan sitä monitor modeen. 
+Löysimme syyksi sen, että meidän adapterin Chipset ei tue airmon-ng komentoa. Meidän chipset oli Realtek RTL8188EUS,
+mutta tarvitsemme Atheros Chipset AR9271L, joka löytyy esim Alpha Network AWUS 036NHA adapterista.
+Laitettu tilaukseen oikea wifiadapteri.
+
+>Laitetiedot<
+
+Reititin: TP-LINK TL-WR841N
+
+Wifi Adapter jonka ostimme: 
+TP-Link TL-WN722N v2, jonka Chipset on Realtek RTL8188EUS
+
+Wifi Adapter, jonka tarvitsemme: 
+Alpha Network AWUS 036NHA, jonka Chipset on Atheros Chipset AR9271L
+
+Osallistujat: Leo, Yaël, Tom, Thomas
