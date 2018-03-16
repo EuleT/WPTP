@@ -1,0 +1,19 @@
+VKO11, 
+2018-03-16
+Osallistujat: Tom, Leo, Yaël,
+11 - 19
+Saavuttu Tomin luokse Yaelin ja Leon kanssa klo 11:00
+
+Haettu postista uusi alfa verkkokortti,
+
+Käynnistetty Kali livetikulta, ja konfiguroitu läppärissä USB:llä kiinni oleva alfa wifiadapter, 
+sekä konfiguroitu myös reitittimen perusasetukset.
+
+Saatu vihdoin monitor modeen wifi adapteri, sniffattu, ja injectoitu. Kaikki onnistuneet hyvin.
+Wiresharkilla saimme näkyviin encryptoimatonta infoa näkyviin.
+
+Olemme tuhlanneet myös aikaa kaiken tämän ymmärtämiseen, ja ongelmienratkaisuun. Haluamme syvällisemmin tietää, mitä ohjeita seuraamalla
+olemme oikeasti saavuttaneet.
+
+aikaa kului 8h.
+
