@@ -1,0 +1,13 @@
+VKO14
+13:00 - 18:45
+Osallistujat: Tom, Yaël, Leo, Thomas
+
+Injektoitu ja sniffattu uudelleen, jouduttu ottamaan uudestaan kuvat niistä blogia varten.
+
+Kirjoitettu kirjaa, ja kirjoitettu blogia myös.
+
+Tutkittu WPA/WPA2 murtautumista.
+
+Nyt voimme keskittyä seuraavaksi vain WPA/WPA2 murtautumiseen.
+
+Aikaa kului: 5h 45 min
