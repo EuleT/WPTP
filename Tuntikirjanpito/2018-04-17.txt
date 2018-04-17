@@ -1,0 +1,8 @@
+VKO16
+14:00 - 20:00
+Osallistujat: Leo, Tom, Thomas, Yaël
+
+Jatkettu WPS Pin:in murtautumisen mahdollisuuksia. Tutustuttu Reaver työkalun lisäksi Fluxion työkaluun sekä Wifite työkaluun 
+sekä kokeiltu näistä työkaluista Reaveriä ja Wifiteä.
+
+Aikaa kului: 6h
