@@ -1,0 +1,8 @@
+VKO16
+13:00 - 18:00
+Osallistujat: Tom, Leo, Thomas, Yaël
+
+Kerrattu vielä uudelleen WPA ja WPA2 murtautuminen sanakirja hyökkäyksellä, tutkittu WPS PIN:in ominaisuuksia
+sekä sen läpi murtautumista Reaver työkalulla.
+
+Aikaa kului: 5h
