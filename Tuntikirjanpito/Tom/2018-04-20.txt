@@ -3,6 +3,6 @@ VKO16
 Osallistujat: Tom
 
 Jatkettu WPS PIN koodin murtamista
-klo 02.00 edit onnistuttu murtamaan WPA2 salaus aireplayn, washin, reaverin ja bullyn avulla!
+klo 02.00 edit onnistuttu murtamaan WPA2 salaus aireplayn, washin, reaverin, pixiedustin ja bullyn avulla!
 
 Aikaa kului: 6h
