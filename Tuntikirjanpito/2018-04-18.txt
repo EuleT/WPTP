@@ -1,0 +1,16 @@
+VKO16
+2018-04-18
+
+Osallistujat: Tom, Leo, Yaël, Thomas
+
+12:00 - 19:00
+
+Tavattu opettaja Tero Karvinen koulussa klo 12:00, jonka jälkeen lähdetty työstämään projektia Tom Kurenmaan luokse.
+
+Saatu Fluxion testi tehtyä, jossa luodaan teko tukiasema. (blogipostaus tulossa).
+
+WPS pin murtautumista yritetty.
+
+Tehty blogipostaus WPS/WPS2 murtautumisesta dictionaryn avulla.
+
+Aikaa kului: 7h
