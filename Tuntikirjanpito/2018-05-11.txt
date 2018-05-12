@@ -6,7 +6,7 @@ Osallistujat:
 Leo - 13:00 - 20:00
 Tom - 13:00 - 03:30
 
-Leo ja Tom kävivät Key re-installation proof of concept scriptin läpi ja miettivät Post Connection hyökkäyksiä.
+Leo ja Tom kävivät Key re-installation attack proof of concept scriptin läpi ja miettivät Post Connection hyökkäyksiä.
 Tom kävi läpi miten toimii Ettercap, Bettercap, arp spoofing, salasanojen ja käyttäjien sniffaus, SSLstrip & SSLstrip2, ARP poisoning,
 dns spoofing, MITMproxy, MITMf ja hsts bypass. (oli pitkä päivä)
 
